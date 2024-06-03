@@ -12,3 +12,7 @@ from sklearn.model_selection import train_test_split
 import os
 os.getcwd()
 
+
+labels = pd.read_csv(r'dataset/aerial-cactus-identification/train.csv')
+submission = pd.read_csv(r'dataset/aerial-cactus-identification/sample_submission.csv')
+
