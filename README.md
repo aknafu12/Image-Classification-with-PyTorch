@@ -45,4 +45,3 @@ The code saves the trained model for future use.
 
 Finally, the code plots the training and validation loss for each epoch.
 
-Feel free to explore the repository and contribute.
